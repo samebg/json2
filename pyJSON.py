@@ -26,11 +26,11 @@ with open('data.json','r') as json_file:
 
     #Create a python object called data, converting the json file to a loaded data
     loaded_data = json.load(json_file)
-
+#Visually outputs the following string
 print("Sucessfully able to read data.json")
 print(loaded_data)
 
-#
+#Re-enters 
 loaded_data['age'] = 11
 loaded_data['interests'].append('Swimming')
 loaded_data['interests'].remove('Eating')
