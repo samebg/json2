@@ -1,0 +1,13 @@
+{
+    "name": "James Bond",
+    "age": 11,
+    "city": "Washington State, WA",
+    "interests": [
+        "Traveling",
+        "English Football",
+        "Basketball",
+        "Sleeping",
+        "Swimming"
+    ],
+    "is_student": true
+}
